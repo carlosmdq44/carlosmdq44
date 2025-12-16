@@ -1,4 +1,4 @@
-# 👋 Hola, soy Carlos Figueroa
+# 👋 Hola, soy Carlos J. Figueroa
 
 🚀 **Data Engineer | Backend Engineer | Cloud & DevOps**  
 📍 Mar del Plata, Argentina
